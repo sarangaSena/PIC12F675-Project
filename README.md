@@ -85,5 +85,7 @@ Created and maintained by **S.M.S.S. Senarathna**
 Special thanks to the embedded community, teachers, and developers who support learning and open sharing of knowledge. Let’s inspire the next generation of engineers together!
 
 ---
+## GIT
 ```bash
 git clone https://github.com/sarangaSena/PIC12F675-Project.git
+
