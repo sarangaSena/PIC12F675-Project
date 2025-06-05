@@ -75,7 +75,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📫 Contact
 
 Created and maintained by **S.M.S.S. Senarathna**  
-📧 senarathna.embedded.dev@gmail.com  
+📧 saranganirwana@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/saranga-senarathna-01989b54) *(Optional — add your profile)*
 
 ---
